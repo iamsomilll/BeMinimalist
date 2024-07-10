@@ -1,5 +1,3 @@
-# Re-Imagine Contest Submission: BeMinimalist.co Redesign
-
 ### Hosted Website : https://devtitans-reimagineround1.netlify.app/
 
 ## Overview
@@ -85,12 +83,6 @@ To run this project locally, follow these steps:
 - What out Customer's say (testimonial section), we replaced the title with a much bolder hook. The stars for all products almost are 5-stars which is gimmiky, so were removed cuz of lack of tangible result-showcase.
 
 - "The Skin Analyser" is bascially the 'Quiz' page, again which is misleading by look. So we included that earlier and removed the repetition.
-
-## Team Members and Contributions
-- **S Omkar Iyer:** Project Lead, UX/UI Designer, Responsivness, Structual Frontend Developer
-- **Somil Suryavanshi:** UX/UI Designer, Responsiveness, Structural Frontend Development
-- **Mousam Singh:** Logical Frontend Developer, Animations and Interactions, Github Collaboration Lead
-- **Aashish:** Animations
 
 ## Asset Credits/Sources
 - Images : Unsplash
